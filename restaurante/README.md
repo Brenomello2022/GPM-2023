@@ -1,0 +1,1 @@
+Alguns códigos utilizados em sala, usando o google colab, python.
