@@ -1,1 +1,1 @@
-Alguns códigos utilizados em sala, usando o google colab, python.
+Alguns códigos utilizados em sala, usando o google colaboratory (jupiter notebook) em python.
