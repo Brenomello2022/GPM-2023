@@ -1,11 +1,12 @@
 #Exemplos das funções em uso...
 
+print("--------VISÃO DE RESERVAS DO CLIENTE--------")
 visualizar_mesas_disponiveis()
 
-numero_de_convidados = selecionar_numero_pessoas() #15
+numero_de_convidados = selecionar_numero_pessoas()
 numero_de_convidados
 
-data_hora = selecionar_data_e_hora() #2023-10-06 10:00
+data_hora = selecionar_data_e_hora()
 data_hora
 
 mesa_escolhida = "Mesa 03"
